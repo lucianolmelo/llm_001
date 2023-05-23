@@ -2060,7 +2060,7 @@ input, select, textarea {
 		justify-content: center;
 		position: relative;
 		height: 24em;
-		background: url("../../images/banner_old.jpg") center center;
+		background: url("../../images/banner.png") center center;
 		background-size: cover;
 		padding: 0;
 	}
@@ -2260,7 +2260,7 @@ input, select, textarea {
 	}
 
 		#highlights .highlight h3 {
-			color: #e97770;
+			color: #006400 /*#e97770; */ /* cor da fonte da seção "Sobre os cultos" */
 			margin: 0 0 0.75em 0;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
